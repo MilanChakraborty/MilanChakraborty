@@ -4,40 +4,64 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MilanChakraborty" alt="MilanChakraborty" /></a> </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-        <a href="https://www.docker.com/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
-                alt="docker" width="40" height="40" />
-        </a>
-        <a href="https://git-scm.com/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-        </a>
-        <a href="https://golang.org" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40"
-                height="40" />
-        </a>
-        <a href="https://www.java.com" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
-                width="40" height="40" />
-        </a>
-        <a href="https://kotlinlang.org" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" alt="kotlin" width="40"
-                height="40" />
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
-                alt="mongodb" width="40" height="40" />
-        </a>
-        <a href="https://nodejs.org" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-                alt="nodejs" width="40" height="40" />
-        </a>
-        <a href="https://spring.io/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
-                height="40" />
-        </a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=experience&company=Thoughtworks&role=Full%20Stack%20Dev%20&location=Bangalore&fill=black">
+</a>
+
+</p>
+
+
+## Things I use on a daily basis
+
+
+<p align="left">
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img
+      src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"
+    />
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img
+      src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7"
+    />
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img
+      src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=2d79c7"
+    />
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img
+      src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=2d79c7"
+    />
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img
+      src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jenkins&svgfill=2d79c7"
+    />
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img
+      src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=2d79c7"
+    />
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img
+      src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2d79c7"
+    />
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img
+      src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=clojure&svgfill=2d79c7"
+    />
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img
+      src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60"
+    />
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MilanChakraborty&show_icons=true&locale=en&layout=compact" alt="MilanChakraborty" /></p>
 
