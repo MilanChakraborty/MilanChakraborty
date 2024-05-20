@@ -33,6 +33,11 @@
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
     <img
+      src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=2d79c7"
+    />
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img
       src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=2d79c7"
     />
   </a>
